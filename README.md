@@ -1,4 +1,4 @@
-# LINE占いBot（DynamoDB連携）
+# LINE占いBot
 
 ## 概要
 LINEでメッセージを送ると、キャラクターになりきった占い結果を返すBotです。  
